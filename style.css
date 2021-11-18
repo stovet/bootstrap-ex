@@ -3,8 +3,12 @@ form {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: gray;
+    margin: 20px;
+    padding: 10px;
 }
-.radio {
+#radio-left {
     display: flex;
-    justify-content: flex-start;
+    
+    justify-content: space-between;
 }
